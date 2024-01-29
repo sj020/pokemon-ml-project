@@ -175,3 +175,8 @@ flying_validation_plot:
   dataset:
     type: matplotlib.MatplotlibWriter
     filepath: data/08_reporting/flying.jpeg
+
+# IndiciumPredictor:
+#   type: pickle.PickleDataSet
+#   filepath: data/09_predictor/IndiciumPredictor.pickle
+#   versioned: true
