@@ -1,0 +1,15 @@
+# Raw Data Path
+pokemon_database:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/pokemon.csv
+
+# Preprocessing
+## File Path for Pokemon Best Generation data
+pokemon_database_best_generation:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/pokemon_database_best_generation.csv
+
+## File Path for Pokemon Best Generation data with Images
+pokemon_database_best_generation_with_images:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/pokemon_database_best_generation_with_images.csv
