@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sidhantjain/Desktop/Projects/pokemon-ml-project/mlruns/502597551473871782/13e93a73918d4415a5f87cbbbc7c6757/artifacts
+end_time: 1706515852008
+entry_point_name: ''
+experiment_id: '502597551473871782'
+lifecycle_stage: active
+run_id: 13e93a73918d4415a5f87cbbbc7c6757
+run_name: data_engineering
+run_uuid: 13e93a73918d4415a5f87cbbbc7c6757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706515851828
+status: 3
+tags: []
+user_id: sidhantjain

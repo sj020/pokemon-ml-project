@@ -1,1 +1,1 @@
-{"pokemon_database": {"rows": 801, "columns": 41, "file_size": 160616}, "pokemon_database_best_generation": {"rows": 298, "columns": 41, "file_size": 70337}, "pokemon_database_best_generation_with_images": {"rows": 298, "columns": 42, "file_size": 74124}}
+{"pokemon_database": {"rows": 801, "columns": 41, "file_size": 160616}, "pokemon_database_best_generation": {"rows": 298, "columns": 41, "file_size": 70337}, "pokemon_database_best_generation_with_images": {"rows": 298, "columns": 42, "file_size": 74124}, "model_input": {"rows": 298, "columns": 32, "file_size": 39813}}

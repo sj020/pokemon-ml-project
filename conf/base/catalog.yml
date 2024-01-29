@@ -13,3 +13,14 @@ pokemon_database_best_generation:
 pokemon_database_best_generation_with_images:
   type: pandas.CSVDataset
   filepath: data/02_intermediate/pokemon_database_best_generation_with_images.csv
+
+# Data-Engineering
+## File Path for Model Input
+model_input:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/model_input.csv
+
+## File Path for the Label Encoder
+label_encoder:
+  type: pickle.PickleDataset
+  filepath: data/05_model_input/lable_encoder.pkl
